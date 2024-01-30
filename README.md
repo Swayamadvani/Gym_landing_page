@@ -12,3 +12,4 @@
 Feel free to explore and modify the code to meet your gym's unique requirements.
 </ol>
 <marquee><h3>happy coding💻!!!</h3></marquee>
+disclaimer this is the front-end of the website 
